@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+.container {
+  display: flex;
+  gap: 1px;
+  width: 100%;
+  padding: 10px;
+}
+
+.loginBox {
+  border-radius: 10px;
+}
+.field {
+  width: 100%;
+  margin: auto;
+}
+
+.loginButton {
+  width: 100%;
+  margin: 10px 0;
+}
+
+hr {
+  margin: 10px 0;
+}
+.loginOutput {
+  height: 100px;
+  width: 100px;
+}
